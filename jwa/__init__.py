@@ -3,14 +3,14 @@ from textwrap import dedent
 name = 'Julian Wachholz'
 username = 'julianwachholz'
 
-work = ['Avectris', 'Polynorm', 'Unic']
+work = ['Quatico', 'Avectris', 'Polynorm', 'Unic']
 
-website = 'https://ju.io'
+website = 'https://julianwachholz.dev'
 twitter = 'https://twitter.com/julianwachholz'
 github = 'https://github.com/julianwachholz'
 
 email = 'julian@wachholz.ch'
-pgp = 'https://ju.io/julian_wachholz_pub.asc'
+pgp = 'https://julianwachholz.dev/julian_wachholz_pub.asc'
 
 
 def card():
